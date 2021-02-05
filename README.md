@@ -1,12 +1,12 @@
 ### Hi there 👋
 ***
 * Education
- * Kwangwoon University Computer Engineering (2015~)
+    - Kwangwoon University Computer Engineering (2015~)
 ***
 * Interests
- * Java - Spring boot
- * Javascript - node.js & nest.js
- * python - algorithm
+    - Java - Spring boot
+    - Javascript - node.js & nest.js
+    - python - algorithm
 ***
 
 
