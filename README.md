@@ -5,7 +5,7 @@
 ***
 * Interests
     - Java - Spring boot
-    - Javascript - node.js & nest.js
+    - Micro Service Architecture
     - python - algorithm
 ***
 
