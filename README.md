@@ -1,4 +1,15 @@
 ### Hi there 👋
+***
+* Education
+ * Kwangwoon University Computer Engineering (2015~)
+***
+* Interests
+ * Java - Spring boot
+ * Javascript - node.js & nest.js
+ * python - algorithm
+***
+
+
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jyh4479)](https://github.com/anuraghazra/github-readme-stats)
 
