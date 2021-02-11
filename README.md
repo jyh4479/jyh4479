@@ -2,7 +2,10 @@
 ***
 * Education
     - Kwangwoon University Computer Engineering (2015~)
-***
+
+* Careers
+    - NAVER Financial Back-end Internship (2021.01~2021.02)
+
 * Interests
     - Java - Spring boot
     - Micro Service Architecture
