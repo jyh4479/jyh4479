@@ -14,7 +14,7 @@
 
 
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jyh4479&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jyh4479&theme=dark&count_private=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyh4479&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
