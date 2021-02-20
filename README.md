@@ -1,12 +1,12 @@
 ### Hi there 👋
 ***
-* Education
+##* Education
     - **Kwangwoon University**, *Computer Engineering* (2015.03 ~)
 
-* Careers
+##* Careers
     - **NAVER Financial**, *Back-end Internship* (2021.01 ~ 2021.02)
 
-* Interests
+##* Interests
     - Back-end
     - Micro Service Architecture
 ***
