@@ -8,8 +8,9 @@
     - ***KOLON BENIT***, *JAVA System Development Internship* (2021.04 ~ 2021.06)
 
 * **Interests**
-    - *Back-end*
+    - *Back-end, Front-end*
     - *Micro Service Architecture*
+    - *Spring boot, React*
     - *Cloud*
 ***
 
