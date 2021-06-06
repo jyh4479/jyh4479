@@ -11,7 +11,7 @@
     - *Back-end, Front-end*
     - *Micro Service Architecture*
     - *Spring boot, React*
-    - *Cloud*
+    - *Cloud, AWS*
 ***
 
 
