@@ -6,6 +6,7 @@
 * **Careers**
     - ***NAVER Financial***, *Back-end Internship* (2021.01 ~ 2021.02)
     - ***KOLON BENIT***, *JAVA System Development Internship* (2021.04 ~ 2021.06)
+    - ***KOLON BENIT***, *Developer* (2021.07 ~ ing)
 
 * **Interests**
     - *Back-end, Front-end*
