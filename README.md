@@ -11,8 +11,9 @@
 * **Interests**
     - *Back-end, Front-end*
     - *Micro Service Architecture*
-    - *Spring boot, React*
+    - *Spring, Spring boot, React*
     - *Cloud, AWS*
+    - *Clean Code*
 
 * **MyPage(React)**
     - https://jyh4479.github.io/testPage/
