@@ -16,7 +16,11 @@
     - *Clean Code*
 
 * **MyPage(React)**
-    - https://jyh4479.github.io/testPage/
+    - https://jyh4479.github.io/testPage
+
+* **Tech Blog**
+    - https://jyh4479.github.io
+   
 ***
 
 
