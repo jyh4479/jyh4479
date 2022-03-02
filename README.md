@@ -7,7 +7,7 @@
     - ***NAVER Financial***, *Back-end Internship* (2021.01 ~ 2021.02)
     - ***KOLON Benit***, *JAVA System Development Internship* (2021.04 ~ 2021.06)
     - ***KOLON Benit***, *Developer* (2021.07 ~ 2022.02)
-    - ***TmaxTibero***, *Database R&D* (2022.03 ~ ing)
+    - ***TmaxData***, *Tibero Database R&D* (2022.03 ~ ing)
 
 * **Interests**
     - *Back-end, Front-end*
