@@ -1,7 +1,7 @@
 ### Hi there 👋
 ***
 * **Education**
-    - ***Kwangwoon University***, *Computer Engineering* (2015.03 ~)
+    - ***Kwangwoon University***, *Computer Engineering* (2015.03 ~ 2021.08)
 
 * **Careers**
     - ***NAVER Financial***, *Back-end Internship* (2021.01 ~ 2021.02)
