@@ -4,10 +4,10 @@
     - ***Kwangwoon University***, *Computer Engineering* (2015.03 ~ 2021.08)
 
 * **Careers**
-    - ***NAVER Financial***, *Back-end Internship* (2021.01 ~ 2021.02)
-    - ***KOLON Benit***, *JAVA System Development Internship* (2021.04 ~ 2021.06)
-    - ***KOLON Benit***, *Software Developer* (2021.07 ~ 2022.02)
     - ***Tmax Tibero***, *Tibero Software Developer(R&D)* (2022.03 ~ ing)
+    - ***KOLON Benit***, *Software Developer* (2021.07 ~ 2022.02)
+    - ***KOLON Benit***, *JAVA System Development Internship* (2021.04 ~ 2021.06)
+    - ***NAVER Financial***, *Back-end Internship* (2021.01 ~ 2021.02)
 
 * **Interests**
     - *Back-end, Front-end*
