@@ -11,9 +11,11 @@
 
 * **Interests**
     - *Back-end, Front-end*
-    - *Micro Service Architecture*
+    - *React, Svelte*
+    - *Docker, Devops*
+<!--     - *Micro Service Architecture*
     - *Spring, Spring boot, React*
-    - *Cloud, AWS*
+    - *Cloud, AWS* -->
     - *Clean Code*
 
 * **MyPage(React)**
