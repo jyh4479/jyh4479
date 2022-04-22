@@ -13,10 +13,10 @@
     - *Back-end, Front-end*
     - *React, Svelte*
     - *Docker, Devops*
+    - *Clean Code*
 <!--     - *Micro Service Architecture*
     - *Spring, Spring boot, React*
     - *Cloud, AWS* -->
-    - *Clean Code*
 
 * **MyPage(React)**
     - https://jyh4479.github.io/testPage
