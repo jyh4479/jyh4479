@@ -13,7 +13,7 @@
     - *Back-end, Front-end*
     - *React, Svelte*
     - *Docker, Devops*
-    - *Clean Code*
+    - *Clean Code, Refactoring, Design Pattern*
 <!--     - *Micro Service Architecture*
     - *Spring, Spring boot, React*
     - *Cloud, AWS* -->
