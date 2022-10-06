@@ -17,10 +17,13 @@
     - *Back-end, Front-end*
     - *React, Svelte*
     - *Docker, Devops*
+    
+<!--     
     - *Clean Code, Refactoring, Design Pattern*
-<!--     - *Micro Service Architecture*
+    - *Micro Service Architecture*
     - *Spring, Spring boot, React*
-    - *Cloud, AWS* -->
+    - *Cloud, AWS* 
+-->
 
 * **MyPage(React + ThreeJs)** *
     - http://yonghoon-jeong-threejs.s3-website.ap-northeast-2.amazonaws.com/
