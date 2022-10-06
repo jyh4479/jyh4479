@@ -5,7 +5,7 @@
 
 * **Careers**
     - ***Tmax Tibero***, *Tibero Software Developer(R&D)* (2022.03 ~ ing)
-        - Sysmaster Client
+        - Sysmaster DB 8 Client
     - ***KOLON Benit***, *Software Developer* (2021.07 ~ 2022.02)
         - KOLON Talk, Phone (Electron)
     - ***KOLON Benit***, *JAVA System Development Internship* (2021.04 ~ 2021.06)
