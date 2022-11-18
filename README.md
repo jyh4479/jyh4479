@@ -14,9 +14,9 @@
         - Spring cloud gateway
 
 * **Interests**
-    - *Back-end, Front-end*
-    - *React, Svelte*
-    - *Docker, Devops*
+    - *Web Back-end, Web Front-end*
+    - *React, D3*
+    - *Docker*
     
 <!--     
     - *Clean Code, Refactoring, Design Pattern*
