@@ -15,7 +15,7 @@
 
 * **Interests**
     - *Web Back-end, Web Front-end*
-    - *React, D3*
+    - *React, Chart(D3, Chartjs, etc...)*
     - *Docker*
     
 <!--     
