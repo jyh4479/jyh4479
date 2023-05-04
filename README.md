@@ -17,6 +17,7 @@
     - *Web Back-end, Web Front-end*
     - *React, Chart(D3, Chartjs, etc...)*
     - *Docker*
+    - *Performance improvement*
     
 <!--     
     - *Clean Code, Refactoring, Design Pattern*
