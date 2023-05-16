@@ -14,7 +14,7 @@
         - Spring cloud gateway
 
 * **Interests**
-    - *Web Back-end, Web Front-end*
+    - *Web Front-end, Front-end testing*
     - *React, Chart(D3, Chartjs, etc...)*
     - *Docker*
     - *Performance improvement*
