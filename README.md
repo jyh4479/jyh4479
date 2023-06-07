@@ -15,7 +15,7 @@
 
 * **Interests**
     - *Web Front-end, Front-end testing*
-    - *React, Recoil, React-query, Chart(D3, Chartjs, etc...)*
+    - *React, Next.js, Recoil, React-query, Chart(D3, Chartjs, etc...)*
     - *Docker*
     - *Performance improvement*
     
