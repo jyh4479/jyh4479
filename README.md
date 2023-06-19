@@ -32,8 +32,12 @@
 * **MyPage(React)**
     - https://jyh4479.github.io/testPage
 
+<!--
+
 * **Tech Blog**
     - https://jyh4479.github.io
+
+-->
    
 ***
 
