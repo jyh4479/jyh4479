@@ -16,6 +16,10 @@
 * **Interests**
     - *Web Front-end, Front-end testing*
     - *React, Next.js, Recoil, React-query, Chart(D3, Chartjs, etc...)*
+ 
+    - *Web Back-end*
+    - *Express*
+ 
     - *Docker*
     - *Performance improvement*
     
