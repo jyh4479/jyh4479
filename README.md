@@ -14,12 +14,9 @@
         - Spring cloud gateway
 
 * **Interests**
-    - *Web Front-end, Front-end testing*
+    - *Web development/testing*
     - *React, Next.js, Recoil, React-query, Chart(D3, Chartjs, etc...)*
- 
-    - *Web Back-end*
-    - *Express*
- 
+    - *Express, Nest*
     - *Docker*
     - *Performance improvement*
     
