@@ -31,7 +31,7 @@
     - http://yonghoon-jeong-threejs.s3-website.ap-northeast-2.amazonaws.com/
 
 * **MyPage(React)**
-    - https://jyh4479.github.io/testPage
+    - https://jyh4479.github.io/jyh-resume
 
 <!--
 
