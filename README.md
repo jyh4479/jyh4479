@@ -16,7 +16,7 @@
 * **Interests**
     - *Web development/testing*
     - *React, Next.js, Recoil, React-query, Chart(D3, Chartjs, etc...)*
-    - *Express, Nest*
+    - *Express*
     - *Docker*
     - *Performance improvement*
     
