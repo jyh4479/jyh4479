@@ -18,7 +18,7 @@
     - *React, Next.js, React-query, Chart(D3, Chartjs, etc...)*
     - *Express*
     - *Docker*
-    - *Performance improvement*
+    - *Performance improvement, Clean Code*
     
 <!--     
     - *Clean Code, Refactoring, Design Pattern*
