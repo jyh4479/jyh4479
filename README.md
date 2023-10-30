@@ -16,7 +16,7 @@
 * **Interests**
     - *Web development/testing*
     - *React, Next.js, React-query, Chart(D3, Chartjs, etc...)*
-    - *Performance improvement, Clean Code*
+    - *Performance improvement*
     
 <!--     
     - *Clean Code, Refactoring, Design Pattern*
