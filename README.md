@@ -15,7 +15,7 @@
 
 * **Interests**
     - *Web development/testing*
-    - *React, Next.js, React-query, Chart(D3, Chartjs, etc...)*
+    - *React, Next.js, Chart(D3, Chartjs, etc...)*
     - *Performance improvement*
     
 <!--     
