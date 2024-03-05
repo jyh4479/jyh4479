@@ -16,7 +16,7 @@
 * **Interests**
     - *Web development/testing*
     - *React, Next.js, Chart(D3, Chartjs, etc...)*
-    - *Cloud, Docker, Kubernates*
+    - *Cloud, Docker, Kubernetes*
     - *Performance improvement*
     
 <!--     
